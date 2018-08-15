@@ -1,0 +1,34 @@
+{
+    "cycle":13,
+    "frozen":8000000,
+    "frozenminusfee":7440000,
+    "pendingminusfee":0,
+    "pending":0,
+    "paid":0,
+    "deleguees":{
+        "tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY":{
+            "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+            "frozen":7440000,
+            "pending":0,
+            "paid":0,
+            "alias":"Greasy Kid Tezos",
+            "cycles":{
+                "14":{
+                    "cycle":14,
+                    "percentage":100.0,
+                    "balance":"10715111700",
+                    "frozen":7440000,
+                    "reward":0
+                }
+            }
+        }
+    },
+    "cycles":{
+        "14":{
+            "frozenminusfee":7440000,
+            "frozen":8000000,
+            "rewardminusfee":0,
+            "reward":0
+        }
+    }
+}

@@ -10,7 +10,7 @@
                         "balance":"10715111700",
                         "manager":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-                        "alias":"dakk",
+                        "alias":"Greasy Kid Tezos",
                         "percentage":100.0
                     }
                 ]
@@ -37,16 +37,14 @@
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "slots":[
                             6
-                        ],
-                        "estimated_time":"2018-08-13T13:25:56Z"
+                        ]
                     },
                     {
                         "level":61235,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "slots":[
                             16
-                        ],
-                        "estimated_time":"2018-08-14T20:45:56Z"
+                        ]
                     }
                 ],
                 "estimated_reward":8000000.0
@@ -62,7 +60,7 @@
                         "balance":"10715111700",
                         "manager":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-                        "alias":"dakk",
+                        "alias":"Greasy Kid Tezos",
                         "percentage":100.0
                     }
                 ]
@@ -75,8 +73,7 @@
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "slots":[
                             14
-                        ],
-                        "estimated_time":"2018-08-15T02:48:56Z"
+                        ]
                     },
                     {
                         "level":62921,
@@ -84,7 +81,7 @@
                         "slots":[
                             6
                         ],
-                        "estimated_time":"2018-08-16T00:51:56Z"
+                        "estimated_time":"2018-08-16T04:34:26Z"
                     }
                 ],
                 "estimated_reward":4000000.0
@@ -121,7 +118,7 @@
                         "balance":"10715111700",
                         "manager":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-                        "alias":"dakk",
+                        "alias":"Greasy Kid Tezos",
                         "percentage":8.3122
                     }
                 ]
@@ -132,19 +129,19 @@
                         "level":67960,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-19T12:51:56Z"
+                        "estimated_time":"2018-08-19T16:34:26Z"
                     },
                     {
                         "level":68925,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-20T04:56:56Z"
+                        "estimated_time":"2018-08-20T08:39:26Z"
                     },
                     {
                         "level":69394,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-20T12:45:56Z"
+                        "estimated_time":"2018-08-20T16:28:26Z"
                     }
                 ],
                 "endorsment":[
@@ -154,7 +151,7 @@
                         "slots":[
                             11
                         ],
-                        "estimated_time":"2018-08-17T23:04:56Z"
+                        "estimated_time":"2018-08-18T02:47:26Z"
                     },
                     {
                         "level":65753,
@@ -162,7 +159,7 @@
                         "slots":[
                             23
                         ],
-                        "estimated_time":"2018-08-18T00:03:56Z"
+                        "estimated_time":"2018-08-18T03:46:26Z"
                     },
                     {
                         "level":65867,
@@ -170,7 +167,7 @@
                         "slots":[
                             20
                         ],
-                        "estimated_time":"2018-08-18T01:57:56Z"
+                        "estimated_time":"2018-08-18T05:40:26Z"
                     },
                     {
                         "level":65914,
@@ -178,7 +175,7 @@
                         "slots":[
                             17
                         ],
-                        "estimated_time":"2018-08-18T02:44:56Z"
+                        "estimated_time":"2018-08-18T06:27:26Z"
                     },
                     {
                         "level":65918,
@@ -186,7 +183,7 @@
                         "slots":[
                             24
                         ],
-                        "estimated_time":"2018-08-18T02:48:56Z"
+                        "estimated_time":"2018-08-18T06:31:26Z"
                     },
                     {
                         "level":65983,
@@ -194,7 +191,7 @@
                         "slots":[
                             14
                         ],
-                        "estimated_time":"2018-08-18T03:53:56Z"
+                        "estimated_time":"2018-08-18T07:36:26Z"
                     },
                     {
                         "level":66007,
@@ -202,7 +199,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-18T04:17:56Z"
+                        "estimated_time":"2018-08-18T08:00:26Z"
                     },
                     {
                         "level":66011,
@@ -210,7 +207,7 @@
                         "slots":[
                             20
                         ],
-                        "estimated_time":"2018-08-18T04:21:56Z"
+                        "estimated_time":"2018-08-18T08:04:26Z"
                     },
                     {
                         "level":66182,
@@ -218,7 +215,7 @@
                         "slots":[
                             10
                         ],
-                        "estimated_time":"2018-08-18T07:12:56Z"
+                        "estimated_time":"2018-08-18T10:55:26Z"
                     },
                     {
                         "level":66355,
@@ -226,7 +223,7 @@
                         "slots":[
                             23
                         ],
-                        "estimated_time":"2018-08-18T10:05:56Z"
+                        "estimated_time":"2018-08-18T13:48:26Z"
                     },
                     {
                         "level":66766,
@@ -234,7 +231,7 @@
                         "slots":[
                             23
                         ],
-                        "estimated_time":"2018-08-18T16:56:56Z"
+                        "estimated_time":"2018-08-18T20:39:26Z"
                     },
                     {
                         "level":66983,
@@ -242,7 +239,7 @@
                         "slots":[
                             28
                         ],
-                        "estimated_time":"2018-08-18T20:33:56Z"
+                        "estimated_time":"2018-08-19T00:16:26Z"
                     },
                     {
                         "level":66985,
@@ -250,7 +247,7 @@
                         "slots":[
                             17
                         ],
-                        "estimated_time":"2018-08-18T20:35:56Z"
+                        "estimated_time":"2018-08-19T00:18:26Z"
                     },
                     {
                         "level":67008,
@@ -258,7 +255,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-18T20:58:56Z"
+                        "estimated_time":"2018-08-19T00:41:26Z"
                     },
                     {
                         "level":67081,
@@ -266,7 +263,7 @@
                         "slots":[
                             10
                         ],
-                        "estimated_time":"2018-08-18T22:11:56Z"
+                        "estimated_time":"2018-08-19T01:54:26Z"
                     },
                     {
                         "level":67205,
@@ -274,7 +271,7 @@
                         "slots":[
                             27
                         ],
-                        "estimated_time":"2018-08-19T00:15:56Z"
+                        "estimated_time":"2018-08-19T03:58:26Z"
                     },
                     {
                         "level":67349,
@@ -282,7 +279,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-19T02:39:56Z"
+                        "estimated_time":"2018-08-19T06:22:26Z"
                     },
                     {
                         "level":67364,
@@ -290,7 +287,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-19T02:54:56Z"
+                        "estimated_time":"2018-08-19T06:37:26Z"
                     },
                     {
                         "level":67376,
@@ -298,7 +295,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-19T03:06:56Z"
+                        "estimated_time":"2018-08-19T06:49:26Z"
                     },
                     {
                         "level":67464,
@@ -306,7 +303,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-19T04:34:56Z"
+                        "estimated_time":"2018-08-19T08:17:26Z"
                     },
                     {
                         "level":67660,
@@ -314,7 +311,7 @@
                         "slots":[
                             15
                         ],
-                        "estimated_time":"2018-08-19T07:50:56Z"
+                        "estimated_time":"2018-08-19T11:33:26Z"
                     },
                     {
                         "level":67752,
@@ -322,7 +319,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-19T09:22:56Z"
+                        "estimated_time":"2018-08-19T13:05:26Z"
                     },
                     {
                         "level":67863,
@@ -330,7 +327,7 @@
                         "slots":[
                             12
                         ],
-                        "estimated_time":"2018-08-19T11:13:56Z"
+                        "estimated_time":"2018-08-19T14:56:26Z"
                     },
                     {
                         "level":67946,
@@ -338,7 +335,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-19T12:36:56Z"
+                        "estimated_time":"2018-08-19T16:19:26Z"
                     },
                     {
                         "level":68003,
@@ -346,7 +343,7 @@
                         "slots":[
                             31
                         ],
-                        "estimated_time":"2018-08-19T13:33:56Z"
+                        "estimated_time":"2018-08-19T17:16:26Z"
                     },
                     {
                         "level":68022,
@@ -354,7 +351,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-19T13:52:56Z"
+                        "estimated_time":"2018-08-19T17:35:26Z"
                     },
                     {
                         "level":68186,
@@ -362,7 +359,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-19T16:36:56Z"
+                        "estimated_time":"2018-08-19T20:19:26Z"
                     },
                     {
                         "level":68407,
@@ -370,7 +367,7 @@
                         "slots":[
                             14
                         ],
-                        "estimated_time":"2018-08-19T20:17:56Z"
+                        "estimated_time":"2018-08-20T00:00:26Z"
                     },
                     {
                         "level":68456,
@@ -378,7 +375,7 @@
                         "slots":[
                             28
                         ],
-                        "estimated_time":"2018-08-19T21:06:56Z"
+                        "estimated_time":"2018-08-20T00:49:26Z"
                     },
                     {
                         "level":68878,
@@ -386,7 +383,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-20T04:08:56Z"
+                        "estimated_time":"2018-08-20T07:51:26Z"
                     },
                     {
                         "level":69052,
@@ -394,7 +391,7 @@
                         "slots":[
                             25
                         ],
-                        "estimated_time":"2018-08-20T07:02:56Z"
+                        "estimated_time":"2018-08-20T10:45:26Z"
                     },
                     {
                         "level":69249,
@@ -402,7 +399,7 @@
                         "slots":[
                             0
                         ],
-                        "estimated_time":"2018-08-20T10:19:56Z"
+                        "estimated_time":"2018-08-20T14:02:26Z"
                     },
                     {
                         "level":69448,
@@ -410,7 +407,7 @@
                         "slots":[
                             16
                         ],
-                        "estimated_time":"2018-08-20T13:38:56Z"
+                        "estimated_time":"2018-08-20T17:21:26Z"
                     },
                     {
                         "level":69452,
@@ -418,7 +415,7 @@
                         "slots":[
                             13
                         ],
-                        "estimated_time":"2018-08-20T13:42:56Z"
+                        "estimated_time":"2018-08-20T17:25:26Z"
                     }
                 ],
                 "estimated_reward":116000000.0
@@ -455,7 +452,7 @@
                         "balance":"10715111700",
                         "manager":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-                        "alias":"dakk",
+                        "alias":"Greasy Kid Tezos",
                         "percentage":8.3122
                     }
                 ]
@@ -466,19 +463,19 @@
                         "level":69859,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-20T20:30:56Z"
+                        "estimated_time":"2018-08-21T00:13:26Z"
                     },
                     {
                         "level":72356,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-22T14:07:56Z"
+                        "estimated_time":"2018-08-22T17:50:26Z"
                     },
                     {
                         "level":73597,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-23T10:48:56Z"
+                        "estimated_time":"2018-08-23T14:31:26Z"
                     }
                 ],
                 "endorsment":[
@@ -488,7 +485,7 @@
                         "slots":[
                             23
                         ],
-                        "estimated_time":"2018-08-20T18:41:56Z"
+                        "estimated_time":"2018-08-20T22:24:26Z"
                     },
                     {
                         "level":69774,
@@ -496,7 +493,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-20T19:04:56Z"
+                        "estimated_time":"2018-08-20T22:47:26Z"
                     },
                     {
                         "level":69925,
@@ -504,7 +501,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-20T21:35:56Z"
+                        "estimated_time":"2018-08-21T01:18:26Z"
                     },
                     {
                         "level":69942,
@@ -512,7 +509,7 @@
                         "slots":[
                             24
                         ],
-                        "estimated_time":"2018-08-20T21:52:56Z"
+                        "estimated_time":"2018-08-21T01:35:26Z"
                     },
                     {
                         "level":70158,
@@ -520,7 +517,7 @@
                         "slots":[
                             31
                         ],
-                        "estimated_time":"2018-08-21T01:28:56Z"
+                        "estimated_time":"2018-08-21T05:11:26Z"
                     },
                     {
                         "level":70214,
@@ -528,7 +525,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-21T02:24:56Z"
+                        "estimated_time":"2018-08-21T06:07:26Z"
                     },
                     {
                         "level":70272,
@@ -536,7 +533,7 @@
                         "slots":[
                             13
                         ],
-                        "estimated_time":"2018-08-21T03:22:56Z"
+                        "estimated_time":"2018-08-21T07:05:26Z"
                     },
                     {
                         "level":70773,
@@ -544,7 +541,7 @@
                         "slots":[
                             17
                         ],
-                        "estimated_time":"2018-08-21T11:43:56Z"
+                        "estimated_time":"2018-08-21T15:26:26Z"
                     },
                     {
                         "level":70778,
@@ -552,7 +549,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-21T11:48:56Z"
+                        "estimated_time":"2018-08-21T15:31:26Z"
                     },
                     {
                         "level":70870,
@@ -560,7 +557,7 @@
                         "slots":[
                             12
                         ],
-                        "estimated_time":"2018-08-21T13:20:56Z"
+                        "estimated_time":"2018-08-21T17:03:26Z"
                     },
                     {
                         "level":70923,
@@ -568,7 +565,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-21T14:13:56Z"
+                        "estimated_time":"2018-08-21T17:56:26Z"
                     },
                     {
                         "level":70992,
@@ -576,7 +573,7 @@
                         "slots":[
                             6
                         ],
-                        "estimated_time":"2018-08-21T15:22:56Z"
+                        "estimated_time":"2018-08-21T19:05:26Z"
                     },
                     {
                         "level":71042,
@@ -584,7 +581,7 @@
                         "slots":[
                             0
                         ],
-                        "estimated_time":"2018-08-21T16:12:56Z"
+                        "estimated_time":"2018-08-21T19:55:26Z"
                     },
                     {
                         "level":71113,
@@ -592,7 +589,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-21T17:23:56Z"
+                        "estimated_time":"2018-08-21T21:06:26Z"
                     },
                     {
                         "level":71148,
@@ -600,7 +597,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-21T17:58:56Z"
+                        "estimated_time":"2018-08-21T21:41:26Z"
                     },
                     {
                         "level":71172,
@@ -608,7 +605,7 @@
                         "slots":[
                             22
                         ],
-                        "estimated_time":"2018-08-21T18:22:56Z"
+                        "estimated_time":"2018-08-21T22:05:26Z"
                     },
                     {
                         "level":71355,
@@ -616,7 +613,7 @@
                         "slots":[
                             29
                         ],
-                        "estimated_time":"2018-08-21T21:25:56Z"
+                        "estimated_time":"2018-08-22T01:08:26Z"
                     },
                     {
                         "level":71378,
@@ -624,7 +621,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-21T21:48:56Z"
+                        "estimated_time":"2018-08-22T01:31:26Z"
                     },
                     {
                         "level":71424,
@@ -632,7 +629,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-21T22:34:56Z"
+                        "estimated_time":"2018-08-22T02:17:26Z"
                     },
                     {
                         "level":71531,
@@ -640,7 +637,7 @@
                         "slots":[
                             21
                         ],
-                        "estimated_time":"2018-08-22T00:21:56Z"
+                        "estimated_time":"2018-08-22T04:04:26Z"
                     },
                     {
                         "level":71607,
@@ -648,7 +645,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-22T01:37:56Z"
+                        "estimated_time":"2018-08-22T05:20:26Z"
                     },
                     {
                         "level":71663,
@@ -656,7 +653,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-22T02:33:56Z"
+                        "estimated_time":"2018-08-22T06:16:26Z"
                     },
                     {
                         "level":71678,
@@ -664,7 +661,7 @@
                         "slots":[
                             4
                         ],
-                        "estimated_time":"2018-08-22T02:48:56Z"
+                        "estimated_time":"2018-08-22T06:31:26Z"
                     },
                     {
                         "level":71694,
@@ -672,7 +669,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-22T03:04:56Z"
+                        "estimated_time":"2018-08-22T06:47:26Z"
                     },
                     {
                         "level":71708,
@@ -680,7 +677,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-22T03:18:56Z"
+                        "estimated_time":"2018-08-22T07:01:26Z"
                     },
                     {
                         "level":71935,
@@ -688,7 +685,7 @@
                         "slots":[
                             9
                         ],
-                        "estimated_time":"2018-08-22T07:05:56Z"
+                        "estimated_time":"2018-08-22T10:48:26Z"
                     },
                     {
                         "level":71944,
@@ -696,7 +693,7 @@
                         "slots":[
                             12
                         ],
-                        "estimated_time":"2018-08-22T07:14:56Z"
+                        "estimated_time":"2018-08-22T10:57:26Z"
                     },
                     {
                         "level":72029,
@@ -704,7 +701,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-22T08:39:56Z"
+                        "estimated_time":"2018-08-22T12:22:26Z"
                     },
                     {
                         "level":72063,
@@ -712,7 +709,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-22T09:13:56Z"
+                        "estimated_time":"2018-08-22T12:56:26Z"
                     },
                     {
                         "level":72200,
@@ -720,7 +717,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-22T11:30:56Z"
+                        "estimated_time":"2018-08-22T15:13:26Z"
                     },
                     {
                         "level":72365,
@@ -728,7 +725,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-22T14:15:56Z"
+                        "estimated_time":"2018-08-22T17:58:26Z"
                     },
                     {
                         "level":72504,
@@ -736,7 +733,7 @@
                         "slots":[
                             25
                         ],
-                        "estimated_time":"2018-08-22T16:34:56Z"
+                        "estimated_time":"2018-08-22T20:17:26Z"
                     },
                     {
                         "level":72842,
@@ -744,7 +741,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-22T22:12:56Z"
+                        "estimated_time":"2018-08-23T01:55:26Z"
                     },
                     {
                         "level":72856,
@@ -752,7 +749,7 @@
                         "slots":[
                             14
                         ],
-                        "estimated_time":"2018-08-22T22:26:56Z"
+                        "estimated_time":"2018-08-23T02:09:26Z"
                     },
                     {
                         "level":73048,
@@ -760,7 +757,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-23T01:38:56Z"
+                        "estimated_time":"2018-08-23T05:21:26Z"
                     },
                     {
                         "level":73192,
@@ -768,7 +765,7 @@
                         "slots":[
                             31
                         ],
-                        "estimated_time":"2018-08-23T04:02:56Z"
+                        "estimated_time":"2018-08-23T07:45:26Z"
                     },
                     {
                         "level":73417,
@@ -776,7 +773,7 @@
                         "slots":[
                             11
                         ],
-                        "estimated_time":"2018-08-23T07:47:56Z"
+                        "estimated_time":"2018-08-23T11:30:26Z"
                     },
                     {
                         "level":73439,
@@ -784,7 +781,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-23T08:09:56Z"
+                        "estimated_time":"2018-08-23T11:52:26Z"
                     },
                     {
                         "level":73472,
@@ -792,7 +789,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-23T08:42:56Z"
+                        "estimated_time":"2018-08-23T12:25:26Z"
                     },
                     {
                         "level":73497,
@@ -800,7 +797,7 @@
                         "slots":[
                             16
                         ],
-                        "estimated_time":"2018-08-23T09:07:56Z"
+                        "estimated_time":"2018-08-23T12:50:26Z"
                     },
                     {
                         "level":73543,
@@ -808,7 +805,7 @@
                         "slots":[
                             29
                         ],
-                        "estimated_time":"2018-08-23T09:53:56Z"
+                        "estimated_time":"2018-08-23T13:36:26Z"
                     },
                     {
                         "level":73570,
@@ -816,7 +813,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-23T10:20:56Z"
+                        "estimated_time":"2018-08-23T14:03:26Z"
                     },
                     {
                         "level":73682,
@@ -824,7 +821,7 @@
                         "slots":[
                             21
                         ],
-                        "estimated_time":"2018-08-23T12:12:56Z"
+                        "estimated_time":"2018-08-23T15:55:26Z"
                     }
                 ],
                 "estimated_reward":134000000.0
@@ -868,7 +865,7 @@
                         "balance":"10715111700",
                         "manager":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-                        "alias":"dakk",
+                        "alias":"Greasy Kid Tezos",
                         "percentage":6.7429
                     }
                 ]
@@ -879,19 +876,19 @@
                         "level":74918,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-24T08:49:56Z"
+                        "estimated_time":"2018-08-24T12:32:26Z"
                     },
                     {
                         "level":75026,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-24T10:37:56Z"
+                        "estimated_time":"2018-08-24T14:20:26Z"
                     },
                     {
                         "level":76858,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-25T17:09:56Z"
+                        "estimated_time":"2018-08-25T20:52:26Z"
                     }
                 ],
                 "endorsment":[
@@ -901,7 +898,7 @@
                         "slots":[
                             25
                         ],
-                        "estimated_time":"2018-08-23T13:43:56Z"
+                        "estimated_time":"2018-08-23T17:26:26Z"
                     },
                     {
                         "level":73775,
@@ -909,7 +906,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-23T13:45:56Z"
+                        "estimated_time":"2018-08-23T17:28:26Z"
                     },
                     {
                         "level":73789,
@@ -917,7 +914,7 @@
                         "slots":[
                             24
                         ],
-                        "estimated_time":"2018-08-23T13:59:56Z"
+                        "estimated_time":"2018-08-23T17:42:26Z"
                     },
                     {
                         "level":73946,
@@ -925,7 +922,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-23T16:36:56Z"
+                        "estimated_time":"2018-08-23T20:19:26Z"
                     },
                     {
                         "level":73993,
@@ -933,7 +930,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-23T17:23:56Z"
+                        "estimated_time":"2018-08-23T21:06:26Z"
                     },
                     {
                         "level":74011,
@@ -941,7 +938,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-23T17:41:56Z"
+                        "estimated_time":"2018-08-23T21:24:26Z"
                     },
                     {
                         "level":74015,
@@ -949,7 +946,7 @@
                         "slots":[
                             6
                         ],
-                        "estimated_time":"2018-08-23T17:45:56Z"
+                        "estimated_time":"2018-08-23T21:28:26Z"
                     },
                     {
                         "level":74062,
@@ -957,7 +954,7 @@
                         "slots":[
                             15
                         ],
-                        "estimated_time":"2018-08-23T18:32:56Z"
+                        "estimated_time":"2018-08-23T22:15:26Z"
                     },
                     {
                         "level":74090,
@@ -965,7 +962,7 @@
                         "slots":[
                             14
                         ],
-                        "estimated_time":"2018-08-23T19:00:56Z"
+                        "estimated_time":"2018-08-23T22:43:26Z"
                     },
                     {
                         "level":74105,
@@ -973,7 +970,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-23T19:15:56Z"
+                        "estimated_time":"2018-08-23T22:58:26Z"
                     },
                     {
                         "level":74123,
@@ -981,7 +978,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-23T19:33:56Z"
+                        "estimated_time":"2018-08-23T23:16:26Z"
                     },
                     {
                         "level":74150,
@@ -989,7 +986,7 @@
                         "slots":[
                             0
                         ],
-                        "estimated_time":"2018-08-23T20:00:56Z"
+                        "estimated_time":"2018-08-23T23:43:26Z"
                     },
                     {
                         "level":74248,
@@ -997,7 +994,7 @@
                         "slots":[
                             31
                         ],
-                        "estimated_time":"2018-08-23T21:38:56Z"
+                        "estimated_time":"2018-08-24T01:21:26Z"
                     },
                     {
                         "level":74295,
@@ -1005,7 +1002,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-23T22:25:56Z"
+                        "estimated_time":"2018-08-24T02:08:26Z"
                     },
                     {
                         "level":74329,
@@ -1013,7 +1010,7 @@
                         "slots":[
                             12
                         ],
-                        "estimated_time":"2018-08-23T22:59:56Z"
+                        "estimated_time":"2018-08-24T02:42:26Z"
                     },
                     {
                         "level":74436,
@@ -1021,7 +1018,7 @@
                         "slots":[
                             13
                         ],
-                        "estimated_time":"2018-08-24T00:46:56Z"
+                        "estimated_time":"2018-08-24T04:29:26Z"
                     },
                     {
                         "level":74481,
@@ -1029,7 +1026,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-24T01:31:56Z"
+                        "estimated_time":"2018-08-24T05:14:26Z"
                     },
                     {
                         "level":74512,
@@ -1037,7 +1034,7 @@
                         "slots":[
                             23
                         ],
-                        "estimated_time":"2018-08-24T02:02:56Z"
+                        "estimated_time":"2018-08-24T05:45:26Z"
                     },
                     {
                         "level":74527,
@@ -1045,7 +1042,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-24T02:17:56Z"
+                        "estimated_time":"2018-08-24T06:00:26Z"
                     },
                     {
                         "level":74555,
@@ -1053,7 +1050,7 @@
                         "slots":[
                             29
                         ],
-                        "estimated_time":"2018-08-24T02:45:56Z"
+                        "estimated_time":"2018-08-24T06:28:26Z"
                     },
                     {
                         "level":74646,
@@ -1061,7 +1058,7 @@
                         "slots":[
                             20
                         ],
-                        "estimated_time":"2018-08-24T04:16:56Z"
+                        "estimated_time":"2018-08-24T07:59:26Z"
                     },
                     {
                         "level":74709,
@@ -1069,7 +1066,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-24T05:19:56Z"
+                        "estimated_time":"2018-08-24T09:02:26Z"
                     },
                     {
                         "level":74844,
@@ -1077,7 +1074,7 @@
                         "slots":[
                             29
                         ],
-                        "estimated_time":"2018-08-24T07:34:56Z"
+                        "estimated_time":"2018-08-24T11:17:26Z"
                     },
                     {
                         "level":74871,
@@ -1085,7 +1082,7 @@
                         "slots":[
                             15
                         ],
-                        "estimated_time":"2018-08-24T08:01:56Z"
+                        "estimated_time":"2018-08-24T11:44:26Z"
                     },
                     {
                         "level":75104,
@@ -1093,7 +1090,7 @@
                         "slots":[
                             22
                         ],
-                        "estimated_time":"2018-08-24T11:54:56Z"
+                        "estimated_time":"2018-08-24T15:37:26Z"
                     },
                     {
                         "level":75119,
@@ -1101,7 +1098,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-24T12:09:56Z"
+                        "estimated_time":"2018-08-24T15:52:26Z"
                     },
                     {
                         "level":75124,
@@ -1109,7 +1106,7 @@
                         "slots":[
                             14
                         ],
-                        "estimated_time":"2018-08-24T12:14:56Z"
+                        "estimated_time":"2018-08-24T15:57:26Z"
                     },
                     {
                         "level":75142,
@@ -1117,7 +1114,7 @@
                         "slots":[
                             22
                         ],
-                        "estimated_time":"2018-08-24T12:32:56Z"
+                        "estimated_time":"2018-08-24T16:15:26Z"
                     },
                     {
                         "level":75161,
@@ -1125,7 +1122,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-24T12:51:56Z"
+                        "estimated_time":"2018-08-24T16:34:26Z"
                     },
                     {
                         "level":75168,
@@ -1133,7 +1130,7 @@
                         "slots":[
                             16
                         ],
-                        "estimated_time":"2018-08-24T12:58:56Z"
+                        "estimated_time":"2018-08-24T16:41:26Z"
                     },
                     {
                         "level":75188,
@@ -1141,7 +1138,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-24T13:18:56Z"
+                        "estimated_time":"2018-08-24T17:01:26Z"
                     },
                     {
                         "level":75205,
@@ -1149,7 +1146,7 @@
                         "slots":[
                             6
                         ],
-                        "estimated_time":"2018-08-24T13:35:56Z"
+                        "estimated_time":"2018-08-24T17:18:26Z"
                     },
                     {
                         "level":75211,
@@ -1157,7 +1154,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-24T13:41:56Z"
+                        "estimated_time":"2018-08-24T17:24:26Z"
                     },
                     {
                         "level":75212,
@@ -1165,7 +1162,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-24T13:42:56Z"
+                        "estimated_time":"2018-08-24T17:25:26Z"
                     },
                     {
                         "level":75494,
@@ -1173,7 +1170,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-24T18:24:56Z"
+                        "estimated_time":"2018-08-24T22:07:26Z"
                     },
                     {
                         "level":75538,
@@ -1181,7 +1178,7 @@
                         "slots":[
                             25
                         ],
-                        "estimated_time":"2018-08-24T19:08:56Z"
+                        "estimated_time":"2018-08-24T22:51:26Z"
                     },
                     {
                         "level":75549,
@@ -1189,7 +1186,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-24T19:19:56Z"
+                        "estimated_time":"2018-08-24T23:02:26Z"
                     },
                     {
                         "level":75582,
@@ -1197,7 +1194,7 @@
                         "slots":[
                             10
                         ],
-                        "estimated_time":"2018-08-24T19:52:56Z"
+                        "estimated_time":"2018-08-24T23:35:26Z"
                     },
                     {
                         "level":75734,
@@ -1205,7 +1202,7 @@
                         "slots":[
                             13
                         ],
-                        "estimated_time":"2018-08-24T22:24:56Z"
+                        "estimated_time":"2018-08-25T02:07:26Z"
                     },
                     {
                         "level":75836,
@@ -1213,7 +1210,7 @@
                         "slots":[
                             0
                         ],
-                        "estimated_time":"2018-08-25T00:06:56Z"
+                        "estimated_time":"2018-08-25T03:49:26Z"
                     },
                     {
                         "level":75916,
@@ -1221,7 +1218,7 @@
                         "slots":[
                             9
                         ],
-                        "estimated_time":"2018-08-25T01:26:56Z"
+                        "estimated_time":"2018-08-25T05:09:26Z"
                     },
                     {
                         "level":76383,
@@ -1229,7 +1226,7 @@
                         "slots":[
                             31
                         ],
-                        "estimated_time":"2018-08-25T09:13:56Z"
+                        "estimated_time":"2018-08-25T12:56:26Z"
                     },
                     {
                         "level":76391,
@@ -1237,7 +1234,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-25T09:21:56Z"
+                        "estimated_time":"2018-08-25T13:04:26Z"
                     },
                     {
                         "level":76460,
@@ -1245,7 +1242,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-25T10:30:56Z"
+                        "estimated_time":"2018-08-25T14:13:26Z"
                     },
                     {
                         "level":76574,
@@ -1253,7 +1250,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-25T12:24:56Z"
+                        "estimated_time":"2018-08-25T16:07:26Z"
                     },
                     {
                         "level":76615,
@@ -1261,7 +1258,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-25T13:05:56Z"
+                        "estimated_time":"2018-08-25T16:48:26Z"
                     },
                     {
                         "level":76651,
@@ -1269,7 +1266,7 @@
                         "slots":[
                             14
                         ],
-                        "estimated_time":"2018-08-25T13:41:56Z"
+                        "estimated_time":"2018-08-25T17:24:26Z"
                     },
                     {
                         "level":76684,
@@ -1277,7 +1274,7 @@
                         "slots":[
                             27
                         ],
-                        "estimated_time":"2018-08-25T14:14:56Z"
+                        "estimated_time":"2018-08-25T17:57:26Z"
                     },
                     {
                         "level":76908,
@@ -1285,7 +1282,7 @@
                         "slots":[
                             2
                         ],
-                        "estimated_time":"2018-08-25T17:58:56Z"
+                        "estimated_time":"2018-08-25T21:41:26Z"
                     },
                     {
                         "level":76937,
@@ -1293,7 +1290,7 @@
                         "slots":[
                             3
                         ],
-                        "estimated_time":"2018-08-25T18:27:56Z"
+                        "estimated_time":"2018-08-25T22:10:26Z"
                     },
                     {
                         "level":76983,
@@ -1301,7 +1298,7 @@
                         "slots":[
                             28
                         ],
-                        "estimated_time":"2018-08-25T19:13:56Z"
+                        "estimated_time":"2018-08-25T22:56:26Z"
                     },
                     {
                         "level":76999,
@@ -1309,7 +1306,7 @@
                         "slots":[
                             24
                         ],
-                        "estimated_time":"2018-08-25T19:29:56Z"
+                        "estimated_time":"2018-08-25T23:12:26Z"
                     },
                     {
                         "level":77017,
@@ -1317,7 +1314,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-25T19:47:56Z"
+                        "estimated_time":"2018-08-25T23:30:26Z"
                     },
                     {
                         "level":77065,
@@ -1325,7 +1322,7 @@
                         "slots":[
                             12
                         ],
-                        "estimated_time":"2018-08-25T20:35:56Z"
+                        "estimated_time":"2018-08-26T00:18:26Z"
                     },
                     {
                         "level":77263,
@@ -1333,7 +1330,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-25T23:53:56Z"
+                        "estimated_time":"2018-08-26T03:36:26Z"
                     },
                     {
                         "level":77312,
@@ -1341,7 +1338,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-26T00:42:56Z"
+                        "estimated_time":"2018-08-26T04:25:26Z"
                     },
                     {
                         "level":77388,
@@ -1349,7 +1346,7 @@
                         "slots":[
                             17
                         ],
-                        "estimated_time":"2018-08-26T01:58:56Z"
+                        "estimated_time":"2018-08-26T05:41:26Z"
                     },
                     {
                         "level":77415,
@@ -1357,7 +1354,7 @@
                         "slots":[
                             13
                         ],
-                        "estimated_time":"2018-08-26T02:25:56Z"
+                        "estimated_time":"2018-08-26T06:08:26Z"
                     },
                     {
                         "level":77540,
@@ -1365,7 +1362,7 @@
                         "slots":[
                             6
                         ],
-                        "estimated_time":"2018-08-26T04:30:56Z"
+                        "estimated_time":"2018-08-26T08:13:26Z"
                     },
                     {
                         "level":77687,
@@ -1373,7 +1370,7 @@
                         "slots":[
                             25
                         ],
-                        "estimated_time":"2018-08-26T06:57:56Z"
+                        "estimated_time":"2018-08-26T10:40:26Z"
                     },
                     {
                         "level":77744,
@@ -1381,7 +1378,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-26T07:54:56Z"
+                        "estimated_time":"2018-08-26T11:37:26Z"
                     },
                     {
                         "level":77784,
@@ -1389,7 +1386,7 @@
                         "slots":[
                             11
                         ],
-                        "estimated_time":"2018-08-26T08:34:56Z"
+                        "estimated_time":"2018-08-26T12:17:26Z"
                     }
                 ],
                 "estimated_reward":172000000.0
@@ -1433,7 +1430,7 @@
                         "balance":"18393614389",
                         "manager":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-                        "alias":"dakk",
+                        "alias":"Greasy Kid Tezos",
                         "percentage":11.0414
                     }
                 ]
@@ -1444,13 +1441,13 @@
                         "level":79352,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-27T10:43:56Z"
+                        "estimated_time":"2018-08-27T14:26:26Z"
                     },
                     {
                         "level":81695,
                         "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
                         "priority":0,
-                        "estimated_time":"2018-08-29T01:46:56Z"
+                        "estimated_time":"2018-08-29T05:29:26Z"
                     }
                 ],
                 "endorsment":[
@@ -1460,7 +1457,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-26T10:30:56Z"
+                        "estimated_time":"2018-08-26T14:13:26Z"
                     },
                     {
                         "level":77932,
@@ -1468,7 +1465,7 @@
                         "slots":[
                             15
                         ],
-                        "estimated_time":"2018-08-26T11:02:56Z"
+                        "estimated_time":"2018-08-26T14:45:26Z"
                     },
                     {
                         "level":78039,
@@ -1476,7 +1473,7 @@
                         "slots":[
                             2
                         ],
-                        "estimated_time":"2018-08-26T12:49:56Z"
+                        "estimated_time":"2018-08-26T16:32:26Z"
                     },
                     {
                         "level":78047,
@@ -1484,7 +1481,7 @@
                         "slots":[
                             28
                         ],
-                        "estimated_time":"2018-08-26T12:57:56Z"
+                        "estimated_time":"2018-08-26T16:40:26Z"
                     },
                     {
                         "level":78103,
@@ -1492,7 +1489,7 @@
                         "slots":[
                             4
                         ],
-                        "estimated_time":"2018-08-26T13:53:56Z"
+                        "estimated_time":"2018-08-26T17:36:26Z"
                     },
                     {
                         "level":78188,
@@ -1500,7 +1497,7 @@
                         "slots":[
                             0
                         ],
-                        "estimated_time":"2018-08-26T15:18:56Z"
+                        "estimated_time":"2018-08-26T19:01:26Z"
                     },
                     {
                         "level":78210,
@@ -1508,7 +1505,7 @@
                         "slots":[
                             15
                         ],
-                        "estimated_time":"2018-08-26T15:40:56Z"
+                        "estimated_time":"2018-08-26T19:23:26Z"
                     },
                     {
                         "level":78306,
@@ -1516,7 +1513,7 @@
                         "slots":[
                             22
                         ],
-                        "estimated_time":"2018-08-26T17:16:56Z"
+                        "estimated_time":"2018-08-26T20:59:26Z"
                     },
                     {
                         "level":78405,
@@ -1524,7 +1521,7 @@
                         "slots":[
                             1
                         ],
-                        "estimated_time":"2018-08-26T18:55:56Z"
+                        "estimated_time":"2018-08-26T22:38:26Z"
                     },
                     {
                         "level":78477,
@@ -1532,7 +1529,7 @@
                         "slots":[
                             9
                         ],
-                        "estimated_time":"2018-08-26T20:07:56Z"
+                        "estimated_time":"2018-08-26T23:50:26Z"
                     },
                     {
                         "level":78483,
@@ -1540,7 +1537,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-26T20:13:56Z"
+                        "estimated_time":"2018-08-26T23:56:26Z"
                     },
                     {
                         "level":78533,
@@ -1548,7 +1545,7 @@
                         "slots":[
                             22
                         ],
-                        "estimated_time":"2018-08-26T21:03:56Z"
+                        "estimated_time":"2018-08-27T00:46:26Z"
                     },
                     {
                         "level":78594,
@@ -1556,7 +1553,7 @@
                         "slots":[
                             22
                         ],
-                        "estimated_time":"2018-08-26T22:04:56Z"
+                        "estimated_time":"2018-08-27T01:47:26Z"
                     },
                     {
                         "level":78596,
@@ -1564,7 +1561,7 @@
                         "slots":[
                             0
                         ],
-                        "estimated_time":"2018-08-26T22:06:56Z"
+                        "estimated_time":"2018-08-27T01:49:26Z"
                     },
                     {
                         "level":78788,
@@ -1572,7 +1569,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-27T01:18:56Z"
+                        "estimated_time":"2018-08-27T05:01:26Z"
                     },
                     {
                         "level":78971,
@@ -1580,7 +1577,7 @@
                         "slots":[
                             19
                         ],
-                        "estimated_time":"2018-08-27T04:21:56Z"
+                        "estimated_time":"2018-08-27T08:04:26Z"
                     },
                     {
                         "level":79084,
@@ -1588,7 +1585,7 @@
                         "slots":[
                             27
                         ],
-                        "estimated_time":"2018-08-27T06:14:56Z"
+                        "estimated_time":"2018-08-27T09:57:26Z"
                     },
                     {
                         "level":79109,
@@ -1596,7 +1593,7 @@
                         "slots":[
                             21
                         ],
-                        "estimated_time":"2018-08-27T06:39:56Z"
+                        "estimated_time":"2018-08-27T10:22:26Z"
                     },
                     {
                         "level":79205,
@@ -1604,7 +1601,7 @@
                         "slots":[
                             27
                         ],
-                        "estimated_time":"2018-08-27T08:15:56Z"
+                        "estimated_time":"2018-08-27T11:58:26Z"
                     },
                     {
                         "level":79308,
@@ -1612,7 +1609,7 @@
                         "slots":[
                             20
                         ],
-                        "estimated_time":"2018-08-27T09:58:56Z"
+                        "estimated_time":"2018-08-27T13:41:26Z"
                     },
                     {
                         "level":79344,
@@ -1620,7 +1617,7 @@
                         "slots":[
                             15
                         ],
-                        "estimated_time":"2018-08-27T10:34:56Z"
+                        "estimated_time":"2018-08-27T14:17:26Z"
                     },
                     {
                         "level":79373,
@@ -1628,7 +1625,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-27T11:03:56Z"
+                        "estimated_time":"2018-08-27T14:46:26Z"
                     },
                     {
                         "level":79407,
@@ -1636,7 +1633,7 @@
                         "slots":[
                             31
                         ],
-                        "estimated_time":"2018-08-27T11:37:56Z"
+                        "estimated_time":"2018-08-27T15:20:26Z"
                     },
                     {
                         "level":79410,
@@ -1644,7 +1641,7 @@
                         "slots":[
                             28
                         ],
-                        "estimated_time":"2018-08-27T11:40:56Z"
+                        "estimated_time":"2018-08-27T15:23:26Z"
                     },
                     {
                         "level":79423,
@@ -1652,7 +1649,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-27T11:53:56Z"
+                        "estimated_time":"2018-08-27T15:36:26Z"
                     },
                     {
                         "level":79449,
@@ -1660,7 +1657,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-27T12:19:56Z"
+                        "estimated_time":"2018-08-27T16:02:26Z"
                     },
                     {
                         "level":79486,
@@ -1668,7 +1665,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-27T12:56:56Z"
+                        "estimated_time":"2018-08-27T16:39:26Z"
                     },
                     {
                         "level":79488,
@@ -1676,7 +1673,7 @@
                         "slots":[
                             27
                         ],
-                        "estimated_time":"2018-08-27T12:58:56Z"
+                        "estimated_time":"2018-08-27T16:41:26Z"
                     },
                     {
                         "level":79676,
@@ -1684,7 +1681,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-27T16:06:56Z"
+                        "estimated_time":"2018-08-27T19:49:26Z"
                     },
                     {
                         "level":79677,
@@ -1692,7 +1689,7 @@
                         "slots":[
                             9
                         ],
-                        "estimated_time":"2018-08-27T16:07:56Z"
+                        "estimated_time":"2018-08-27T19:50:26Z"
                     },
                     {
                         "level":79698,
@@ -1700,7 +1697,7 @@
                         "slots":[
                             17
                         ],
-                        "estimated_time":"2018-08-27T16:28:56Z"
+                        "estimated_time":"2018-08-27T20:11:26Z"
                     },
                     {
                         "level":79756,
@@ -1708,7 +1705,7 @@
                         "slots":[
                             18
                         ],
-                        "estimated_time":"2018-08-27T17:26:56Z"
+                        "estimated_time":"2018-08-27T21:09:26Z"
                     },
                     {
                         "level":79997,
@@ -1716,7 +1713,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-27T21:27:56Z"
+                        "estimated_time":"2018-08-28T01:10:26Z"
                     },
                     {
                         "level":80088,
@@ -1724,7 +1721,7 @@
                         "slots":[
                             5
                         ],
-                        "estimated_time":"2018-08-27T22:58:56Z"
+                        "estimated_time":"2018-08-28T02:41:26Z"
                     },
                     {
                         "level":80196,
@@ -1732,7 +1729,7 @@
                         "slots":[
                             30
                         ],
-                        "estimated_time":"2018-08-28T00:46:56Z"
+                        "estimated_time":"2018-08-28T04:29:26Z"
                     },
                     {
                         "level":80391,
@@ -1740,7 +1737,7 @@
                         "slots":[
                             7
                         ],
-                        "estimated_time":"2018-08-28T04:01:56Z"
+                        "estimated_time":"2018-08-28T07:44:26Z"
                     },
                     {
                         "level":80408,
@@ -1748,7 +1745,7 @@
                         "slots":[
                             16
                         ],
-                        "estimated_time":"2018-08-28T04:18:56Z"
+                        "estimated_time":"2018-08-28T08:01:26Z"
                     },
                     {
                         "level":80457,
@@ -1756,7 +1753,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-28T05:07:56Z"
+                        "estimated_time":"2018-08-28T08:50:26Z"
                     },
                     {
                         "level":80480,
@@ -1764,7 +1761,7 @@
                         "slots":[
                             28
                         ],
-                        "estimated_time":"2018-08-28T05:30:56Z"
+                        "estimated_time":"2018-08-28T09:13:26Z"
                     },
                     {
                         "level":80683,
@@ -1772,7 +1769,7 @@
                         "slots":[
                             3
                         ],
-                        "estimated_time":"2018-08-28T08:53:56Z"
+                        "estimated_time":"2018-08-28T12:36:26Z"
                     },
                     {
                         "level":80719,
@@ -1780,7 +1777,7 @@
                         "slots":[
                             25
                         ],
-                        "estimated_time":"2018-08-28T09:29:56Z"
+                        "estimated_time":"2018-08-28T13:12:26Z"
                     },
                     {
                         "level":80728,
@@ -1788,7 +1785,7 @@
                         "slots":[
                             13
                         ],
-                        "estimated_time":"2018-08-28T09:38:56Z"
+                        "estimated_time":"2018-08-28T13:21:26Z"
                     },
                     {
                         "level":80926,
@@ -1796,7 +1793,7 @@
                         "slots":[
                             17
                         ],
-                        "estimated_time":"2018-08-28T12:56:56Z"
+                        "estimated_time":"2018-08-28T16:39:26Z"
                     },
                     {
                         "level":81186,
@@ -1804,7 +1801,7 @@
                         "slots":[
                             15
                         ],
-                        "estimated_time":"2018-08-28T17:16:56Z"
+                        "estimated_time":"2018-08-28T20:59:26Z"
                     },
                     {
                         "level":81265,
@@ -1812,7 +1809,7 @@
                         "slots":[
                             8
                         ],
-                        "estimated_time":"2018-08-28T18:35:56Z"
+                        "estimated_time":"2018-08-28T22:18:26Z"
                     },
                     {
                         "level":81301,
@@ -1820,7 +1817,7 @@
                         "slots":[
                             4
                         ],
-                        "estimated_time":"2018-08-28T19:11:56Z"
+                        "estimated_time":"2018-08-28T22:54:26Z"
                     },
                     {
                         "level":81344,
@@ -1828,7 +1825,7 @@
                         "slots":[
                             9
                         ],
-                        "estimated_time":"2018-08-28T19:54:56Z"
+                        "estimated_time":"2018-08-28T23:37:26Z"
                     },
                     {
                         "level":81376,
@@ -1836,7 +1833,7 @@
                         "slots":[
                             11
                         ],
-                        "estimated_time":"2018-08-28T20:26:56Z"
+                        "estimated_time":"2018-08-29T00:09:26Z"
                     },
                     {
                         "level":81689,
@@ -1844,7 +1841,7 @@
                         "slots":[
                             16
                         ],
-                        "estimated_time":"2018-08-29T01:39:56Z"
+                        "estimated_time":"2018-08-29T05:22:26Z"
                     },
                     {
                         "level":81708,
@@ -1852,7 +1849,7 @@
                         "slots":[
                             12
                         ],
-                        "estimated_time":"2018-08-29T01:58:56Z"
+                        "estimated_time":"2018-08-29T05:41:26Z"
                     },
                     {
                         "level":81747,
@@ -1860,7 +1857,7 @@
                         "slots":[
                             31
                         ],
-                        "estimated_time":"2018-08-29T02:37:56Z"
+                        "estimated_time":"2018-08-29T06:20:26Z"
                     },
                     {
                         "level":81834,
@@ -1868,7 +1865,7 @@
                         "slots":[
                             26
                         ],
-                        "estimated_time":"2018-08-29T04:04:56Z"
+                        "estimated_time":"2018-08-29T07:47:26Z"
                     },
                     {
                         "level":81901,
@@ -1876,15 +1873,484 @@
                         "slots":[
                             29
                         ],
-                        "estimated_time":"2018-08-29T05:11:56Z"
+                        "estimated_time":"2018-08-29T08:54:26Z"
                     }
                 ],
                 "estimated_reward":138000000.0
             }
+        },
+        {
+            "cycle":20,
+            "snapshot":{
+                "cycle":20,
+                "staking_balance":"166586344389",
+                "delegated":[
+                    {
+                        "balance":"100000000000",
+                        "manager":"tz1Xe3Qv3XePLgY3X4KZpsov574N4eHVdnTZ",
+                        "address":"KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi",
+                        "alias":"flaco",
+                        "percentage":60.0289
+                    },
+                    {
+                        "balance":"5999000000",
+                        "manager":"tz1g8HcELq3wyRkbe1LHV2xMYURs2VcQaJpq",
+                        "address":"KT1LzQkEma9Y8XK7ZoJj3LDR3A3hPmJMWnxb",
+                        "alias":"mario",
+                        "percentage":3.6011
+                    },
+                    {
+                        "balance":"12194000000",
+                        "manager":"tz1Qb5tP3cqPYUziT9Sh3SAAKEbsbLuy6U9K",
+                        "address":"KT1KN7NwY7Q1FXvgEq8cradTLed1JCuY7Uk4",
+                        "alias":"rorro",
+                        "percentage":7.3199
+                    },
+                    {
+                        "balance":"29999730000",
+                        "manager":"tz1igJETNZMt2AEQHBDyVq4JB1b2ibt1Epvr",
+                        "address":"KT19NaLNhx8Htb5YE9rJLkC1bE5Uc6tPEaP6",
+                        "alias":"moi",
+                        "percentage":18.0085
+                    },
+                    {
+                        "balance":"18393614389",
+                        "manager":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "alias":"Greasy Kid Tezos",
+                        "percentage":11.0414
+                    }
+                ]
+            },
+            "rights":{
+                "blocks":[
+                    {
+                        "level":83225,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "priority":0,
+                        "estimated_time":"2018-08-30T06:59:26Z"
+                    },
+                    {
+                        "level":83480,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "priority":0,
+                        "estimated_time":"2018-08-30T11:14:26Z"
+                    },
+                    {
+                        "level":84709,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "priority":0,
+                        "estimated_time":"2018-08-31T07:43:26Z"
+                    }
+                ],
+                "endorsment":[
+                    {
+                        "level":81922,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            0
+                        ],
+                        "estimated_time":"2018-08-29T09:15:26Z"
+                    },
+                    {
+                        "level":82048,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            11
+                        ],
+                        "estimated_time":"2018-08-29T11:21:26Z"
+                    },
+                    {
+                        "level":82208,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            18
+                        ],
+                        "estimated_time":"2018-08-29T14:01:26Z"
+                    },
+                    {
+                        "level":82217,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            9
+                        ],
+                        "estimated_time":"2018-08-29T14:10:26Z"
+                    },
+                    {
+                        "level":82281,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            8
+                        ],
+                        "estimated_time":"2018-08-29T15:14:26Z"
+                    },
+                    {
+                        "level":82401,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            20
+                        ],
+                        "estimated_time":"2018-08-29T17:14:26Z"
+                    },
+                    {
+                        "level":82425,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            31
+                        ],
+                        "estimated_time":"2018-08-29T17:38:26Z"
+                    },
+                    {
+                        "level":82469,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            15
+                        ],
+                        "estimated_time":"2018-08-29T18:22:26Z"
+                    },
+                    {
+                        "level":82553,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            22
+                        ],
+                        "estimated_time":"2018-08-29T19:46:26Z"
+                    },
+                    {
+                        "level":82556,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            24
+                        ],
+                        "estimated_time":"2018-08-29T19:49:26Z"
+                    },
+                    {
+                        "level":82609,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            17
+                        ],
+                        "estimated_time":"2018-08-29T20:42:26Z"
+                    },
+                    {
+                        "level":82953,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            23
+                        ],
+                        "estimated_time":"2018-08-30T02:26:26Z"
+                    },
+                    {
+                        "level":82987,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            1
+                        ],
+                        "estimated_time":"2018-08-30T03:00:26Z"
+                    },
+                    {
+                        "level":83043,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            22
+                        ],
+                        "estimated_time":"2018-08-30T03:56:26Z"
+                    },
+                    {
+                        "level":83093,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            15
+                        ],
+                        "estimated_time":"2018-08-30T04:46:26Z"
+                    },
+                    {
+                        "level":83122,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            0
+                        ],
+                        "estimated_time":"2018-08-30T05:15:26Z"
+                    },
+                    {
+                        "level":83195,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            22
+                        ],
+                        "estimated_time":"2018-08-30T06:28:26Z"
+                    },
+                    {
+                        "level":83239,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            24
+                        ],
+                        "estimated_time":"2018-08-30T07:12:26Z"
+                    },
+                    {
+                        "level":83254,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            11
+                        ],
+                        "estimated_time":"2018-08-30T07:27:26Z"
+                    },
+                    {
+                        "level":83276,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            10
+                        ],
+                        "estimated_time":"2018-08-30T07:49:26Z"
+                    },
+                    {
+                        "level":83356,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            25
+                        ],
+                        "estimated_time":"2018-08-30T09:09:26Z"
+                    },
+                    {
+                        "level":83509,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            13
+                        ],
+                        "estimated_time":"2018-08-30T11:42:26Z"
+                    },
+                    {
+                        "level":83527,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            16
+                        ],
+                        "estimated_time":"2018-08-30T12:00:26Z"
+                    },
+                    {
+                        "level":83602,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            5
+                        ],
+                        "estimated_time":"2018-08-30T13:15:26Z"
+                    },
+                    {
+                        "level":83698,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            7
+                        ],
+                        "estimated_time":"2018-08-30T14:51:26Z"
+                    },
+                    {
+                        "level":83725,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            7
+                        ],
+                        "estimated_time":"2018-08-30T15:18:26Z"
+                    },
+                    {
+                        "level":83801,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            12
+                        ],
+                        "estimated_time":"2018-08-30T16:34:26Z"
+                    },
+                    {
+                        "level":83957,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            5
+                        ],
+                        "estimated_time":"2018-08-30T19:10:26Z"
+                    },
+                    {
+                        "level":84097,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            18
+                        ],
+                        "estimated_time":"2018-08-30T21:30:26Z"
+                    },
+                    {
+                        "level":84112,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            31
+                        ],
+                        "estimated_time":"2018-08-30T21:45:26Z"
+                    },
+                    {
+                        "level":84140,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            1
+                        ],
+                        "estimated_time":"2018-08-30T22:13:26Z"
+                    },
+                    {
+                        "level":84188,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            21
+                        ],
+                        "estimated_time":"2018-08-30T23:01:26Z"
+                    },
+                    {
+                        "level":84244,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            6
+                        ],
+                        "estimated_time":"2018-08-30T23:57:26Z"
+                    },
+                    {
+                        "level":84253,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            18
+                        ],
+                        "estimated_time":"2018-08-31T00:06:26Z"
+                    },
+                    {
+                        "level":84255,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            2
+                        ],
+                        "estimated_time":"2018-08-31T00:08:26Z"
+                    },
+                    {
+                        "level":84311,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            26
+                        ],
+                        "estimated_time":"2018-08-31T01:04:26Z"
+                    },
+                    {
+                        "level":84357,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            4
+                        ],
+                        "estimated_time":"2018-08-31T01:50:26Z"
+                    },
+                    {
+                        "level":84576,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            10
+                        ],
+                        "estimated_time":"2018-08-31T05:29:26Z"
+                    },
+                    {
+                        "level":84611,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            28
+                        ],
+                        "estimated_time":"2018-08-31T06:04:26Z"
+                    },
+                    {
+                        "level":84720,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            10
+                        ],
+                        "estimated_time":"2018-08-31T07:53:26Z"
+                    },
+                    {
+                        "level":84958,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            24
+                        ],
+                        "estimated_time":"2018-08-31T11:51:26Z"
+                    },
+                    {
+                        "level":84961,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            24
+                        ],
+                        "estimated_time":"2018-08-31T11:54:26Z"
+                    },
+                    {
+                        "level":85223,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            26
+                        ],
+                        "estimated_time":"2018-08-31T16:16:26Z"
+                    },
+                    {
+                        "level":85229,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            19
+                        ],
+                        "estimated_time":"2018-08-31T16:22:26Z"
+                    },
+                    {
+                        "level":85344,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            10
+                        ],
+                        "estimated_time":"2018-08-31T18:17:26Z"
+                    },
+                    {
+                        "level":85354,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            21
+                        ],
+                        "estimated_time":"2018-08-31T18:27:26Z"
+                    },
+                    {
+                        "level":85441,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            31
+                        ],
+                        "estimated_time":"2018-08-31T19:54:26Z"
+                    },
+                    {
+                        "level":85764,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            9
+                        ],
+                        "estimated_time":"2018-09-01T01:17:26Z"
+                    },
+                    {
+                        "level":85836,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            22
+                        ],
+                        "estimated_time":"2018-09-01T02:29:26Z"
+                    },
+                    {
+                        "level":85960,
+                        "delegate":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
+                        "slots":[
+                            23
+                        ],
+                        "estimated_time":"2018-09-01T04:33:26Z"
+                    }
+                ],
+                "estimated_reward":148000000.0
+            }
         }
     ],
     "pkh":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-    "name":"dakk",
+    "name":"Greasy Kid Tezos",
     "deleguees":{
         "tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY":"vogel",
         "KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi":"flaco",
@@ -1896,5 +2362,5 @@
         "KT1X3vBqbTuq7yP4hLrpfTThhYD4tEsDRFNb":"dmp"
     },
     "percentage":93,
-    "currentcycle":14
+    "currentcycle":15
 }
