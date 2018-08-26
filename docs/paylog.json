@@ -1,14 +1,14 @@
 {
     "cycle":13,
-    "frozen":12000000,
-    "frozenminusfee":11160000,
+    "frozen":274000000,
+    "frozenminusfee":254820000,
     "pendingminusfee":0,
     "pending":0,
     "paid":0,
     "deleguees":{
         "tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY":{
             "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
-            "frozen":11160000,
+            "frozen":28017810,
             "pending":0,
             "paid":0,
             "alias":"Greasy Kid Tezos",
@@ -22,9 +22,106 @@
                 },
                 "15":{
                     "cycle":15,
-                    "percentage":100.0,
+                    "percentage":8.7179,
                     "balance":"10715111700",
-                    "frozen":3720000,
+                    "frozen":324305,
+                    "reward":0
+                },
+                "16":{
+                    "cycle":16,
+                    "percentage":8.3122,
+                    "balance":"10715111700",
+                    "frozen":10049449,
+                    "reward":0
+                },
+                "17":{
+                    "cycle":17,
+                    "percentage":8.3122,
+                    "balance":"10715111700",
+                    "frozen":10204056,
+                    "reward":0
+                }
+            }
+        },
+        "KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi":{
+            "address":"KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi",
+            "frozen":192044894,
+            "pending":0,
+            "paid":0,
+            "alias":"flaco",
+            "cycles":{
+                "15":{
+                    "cycle":15,
+                    "percentage":81.3609,
+                    "balance":"100000000000",
+                    "frozen":3026625,
+                    "reward":0
+                },
+                "16":{
+                    "cycle":16,
+                    "percentage":77.5746,
+                    "balance":"100000000000",
+                    "frozen":93787691,
+                    "reward":0
+                },
+                "17":{
+                    "cycle":17,
+                    "percentage":77.5746,
+                    "balance":"100000000000",
+                    "frozen":95230578,
+                    "reward":0
+                }
+            }
+        },
+        "KT1KN7NwY7Q1FXvgEq8cradTLed1JCuY7Uk4":{
+            "address":"KT1KN7NwY7Q1FXvgEq8cradTLed1JCuY7Uk4",
+            "frozen":23417837,
+            "pending":0,
+            "paid":0,
+            "alias":"rorro",
+            "cycles":{
+                "15":{
+                    "cycle":15,
+                    "percentage":9.9211,
+                    "balance":"12194000000",
+                    "frozen":369064,
+                    "reward":0
+                },
+                "16":{
+                    "cycle":16,
+                    "percentage":9.4594,
+                    "balance":"12194000000",
+                    "frozen":11436414,
+                    "reward":0
+                },
+                "17":{
+                    "cycle":17,
+                    "percentage":9.4594,
+                    "balance":"12194000000",
+                    "frozen":11612359,
+                    "reward":0
+                }
+            }
+        },
+        "KT1LzQkEma9Y8XK7ZoJj3LDR3A3hPmJMWnxb":{
+            "address":"KT1LzQkEma9Y8XK7ZoJj3LDR3A3hPmJMWnxb",
+            "frozen":11339205,
+            "pending":0,
+            "paid":0,
+            "alias":"mario",
+            "cycles":{
+                "16":{
+                    "cycle":16,
+                    "percentage":4.6537,
+                    "balance":"5999000000",
+                    "frozen":5626323,
+                    "reward":0
+                },
+                "17":{
+                    "cycle":17,
+                    "percentage":4.6537,
+                    "balance":"5999000000",
+                    "frozen":5712882,
                     "reward":0
                 }
             }
@@ -40,6 +137,18 @@
         "15":{
             "frozenminusfee":3720000,
             "frozen":4000000,
+            "rewardminusfee":0,
+            "reward":0
+        },
+        "16":{
+            "frozenminusfee":120900000,
+            "frozen":130000000,
+            "rewardminusfee":0,
+            "reward":0
+        },
+        "17":{
+            "frozenminusfee":122760000,
+            "frozen":132000000,
             "rewardminusfee":0,
             "reward":0
         }
