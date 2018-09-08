@@ -2,15 +2,15 @@
     "cycle":17,
     "frozen":864666666,
     "frozenminusfee":804139999,
-    "pendingminusfee":122760129,
-    "pending":141940129,
-    "paid":132059871,
+    "pendingminusfee":254,
+    "pending":19180254,
+    "paid":254819746,
     "deleguees":{
         "tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY":{
             "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
             "frozen":58464838,
-            "pending":10204056,
-            "paid":17813754,
+            "pending":0,
+            "paid":28017810,
             "alias":"Greasy Kid Tezos",
             "cycles":{
                 "14":{
@@ -81,8 +81,8 @@
         "KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi":{
             "address":"KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi",
             "frozen":359313751,
-            "pending":95230578,
-            "paid":96814316,
+            "pending":0,
+            "paid":192044894,
             "alias":"flaco",
             "cycles":{
                 "15":{
@@ -146,8 +146,8 @@
         "KT1KN7NwY7Q1FXvgEq8cradTLed1JCuY7Uk4":{
             "address":"KT1KN7NwY7Q1FXvgEq8cradTLed1JCuY7Uk4",
             "frozen":43814548,
-            "pending":11612359,
-            "paid":11805478,
+            "pending":0,
+            "paid":23417837,
             "alias":"rorro",
             "cycles":{
                 "15":{
@@ -211,8 +211,8 @@
         "KT1LzQkEma9Y8XK7ZoJj3LDR3A3hPmJMWnxb":{
             "address":"KT1LzQkEma9Y8XK7ZoJj3LDR3A3hPmJMWnxb",
             "frozen":21554710,
-            "pending":5712882,
-            "paid":5626323,
+            "pending":0,
+            "paid":11339205,
             "alias":"mario",
             "cycles":{
                 "16":{
