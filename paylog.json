@@ -2,15 +2,15 @@
     "cycle":19,
     "frozen":1074333332,
     "frozenminusfee":999129998,
-    "pendingminusfee":125550731,
-    "pending":166080731,
-    "paid":412919269,
+    "pendingminusfee":985,
+    "pending":40530985,
+    "paid":538469015,
     "deleguees":{
         "tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY":{
             "address":"tz1LUZNxLonRmotkLszDcNQLBMkMj42x7DdY",
             "frozen":61766931,
-            "pending":13862477,
-            "paid":38678334,
+            "pending":0,
+            "paid":52540811,
             "alias":"Greasy Kid Tezos",
             "cycles":{
                 "14":{
@@ -95,8 +95,8 @@
         "KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi":{
             "address":"KT1TTStyYu6EWsUCwN6mVmq2q78cV6dH3CWi",
             "frozen":334065390,
-            "pending":75366283,
-            "paid":291536433,
+            "pending":0,
+            "paid":366902716,
             "alias":"flaco",
             "cycles":{
                 "15":{
@@ -174,8 +174,8 @@
         "KT1KN7NwY7Q1FXvgEq8cradTLed1JCuY7Uk4":{
             "address":"KT1KN7NwY7Q1FXvgEq8cradTLed1JCuY7Uk4",
             "frozen":40735816,
-            "pending":9190134,
-            "paid":35549798,
+            "pending":0,
+            "paid":44739932,
             "alias":"rorro",
             "cycles":{
                 "15":{
@@ -253,8 +253,8 @@
         "KT1LzQkEma9Y8XK7ZoJj3LDR3A3hPmJMWnxb":{
             "address":"KT1LzQkEma9Y8XK7ZoJj3LDR3A3hPmJMWnxb",
             "frozen":20040073,
-            "pending":4521181,
-            "paid":17307638,
+            "pending":0,
+            "paid":21828819,
             "alias":"mario",
             "cycles":{
                 "16":{
@@ -325,8 +325,8 @@
         "KT19NaLNhx8Htb5YE9rJLkC1bE5Uc6tPEaP6":{
             "address":"KT19NaLNhx8Htb5YE9rJLkC1bE5Uc6tPEaP6",
             "frozen":100218443,
-            "pending":22609671,
-            "paid":29847066,
+            "pending":0,
+            "paid":52456737,
             "alias":"moi",
             "cycles":{
                 "18":{
