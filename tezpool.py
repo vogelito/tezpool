@@ -276,7 +276,7 @@ elif args.action == 'paypendings':
 			if x != conf['pkh']:
 				print ('Sending', formatBalance(v['pending']), 'XTZ to', x)
 				paydata += 'echo Sending ' + str (formatBalance(v['pending'])) + ' XTZ to ' + x + '\n'
-				paydata += './tezos-client -w none transfer ' + str (formatBalance(v['pending'])) + ' from "vogel" to "' + x + '" --fee 0\n'
+				paydata += './tezos-client -w none transfer ' + str (formatBalance(v['pending'])) + ' from "vogel" to "' + x + '"\n'
 				paydata += 'sleep 1\n\n'
 			else:
 				print ('Not sending', formatBalance(v['pending']), 'XTZ to', x, 'because it\' the pool address')
