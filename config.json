@@ -22,6 +22,8 @@
     "payout": {
         "minpayout": 0.0001,
         "method": "tezos-client",
-        "deductfees": true
+        "deductfees": true,
+        "tezos_client": "./tezos-client -w none",
+        "from_account": "vogel"
     }
 }
